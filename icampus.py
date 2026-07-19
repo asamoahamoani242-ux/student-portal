@@ -12,7 +12,7 @@ def go_to(page_name):
     st.session_state.page = page_name
 
 with st.sidebar:
-    st.image("TKGN1273.jpg", width=120)
+    st.image("https://i.imagur.com/8Km9tLL.png", width=120)
 
     st.title("ASAMOAH AMOANI KWAME")
     st.write("STUDENT ID: 01255295B")
